@@ -7,7 +7,7 @@ This project was developed with Laravel, MySQL and Bootstrap.
 
 I'm going to attach some pictures about this project.
 
-<img src="https://media.discordapp.net/attachments/674412377818529831/836005663293308968/unknown.png?width=974&height=473"</img>
+<img src="https://media.discordapp.net/attachments/674412377818529831/836005663293308968/unknown.png?width=974&height=473"></img>
 https://media.discordapp.net/attachments/674412377818529831/836006786896887858/unknown.png?width=974&height=473
 https://media.discordapp.net/attachments/674412377818529831/836006837894643742/unknown.png?width=968&height=473
 https://media.discordapp.net/attachments/674412377818529831/836006905091457044/unknown.png?width=1025&height=463
